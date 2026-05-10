@@ -1,10 +1,3 @@
-# Title
-## Subtitle
+# Current-Date
+## Small app for CI/CD pipeline in Jenkins
 
-**Bold text**
-*Italic text*
-
-- item 1
-- item 2
-
-[Google](https://google.com)

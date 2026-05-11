@@ -9,7 +9,7 @@ public class Main{
 
         String date = dateFormat.format(var1);
         String time = timeFormat.format(var1);
-        //printing
+        //printing date and time
         System.out.println("This is a normal java app that shows current Date: " + date);
         System.out.println("This is current Time: " + time);
         }

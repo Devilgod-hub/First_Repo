@@ -5,6 +5,7 @@ pipeline {
     stages {
         stage("Hi"){
             steps{
+                echo "This is working"
                 script{
                     hello()
                 }
